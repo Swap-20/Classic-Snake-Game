@@ -9,7 +9,7 @@ Features
 Controls
 
 Description
-Snake Game is a simple yet addictive game where the player controls a snake that grows longer as it eats food. The objective is to navigate the snake around the playing field, avoiding collisions with the walls of the game area. The game ends when the snake collides with a wall.
+Snake Game is a simple yet addictive game where the player controls a snake that grows longer as it eats food. The objective is to navigate the snake around the playing field.
 
 Features
 Classic Snake gameplay experience
